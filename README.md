@@ -19,7 +19,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Praveen
 
-![This is my gif!](https://media.giphy.com/media/Y4pAQv58ETJgRwoLxj/giphy-downsized-large.gif)
+![This is my gif!](https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif)
 
 ### Yasitha
 
