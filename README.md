@@ -1,4 +1,4 @@
-# Guided Git GIF-Stravaganza! DS-040323
+# Guided Git GIF-Stravaganza! DS-080723
 
 Today's challenge is to contribute to a Git repository, using branches and pull requests! We'll be using a Git branching workflow to all contribute to this README file.
 
